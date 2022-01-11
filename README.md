@@ -4,9 +4,12 @@ Langage utilisé : JS, CSS, HTML
 
 Framework : Vue.js, Node.JS et Express
 
+Etape 1) : MySQL Workbench
 
+Pour ce projet vous aller avoir besoin de MySQL Workbench
+Installer le via ce lien : https://www.mysql.com/fr/products/workbench/
 
-Etape 1) : Installation
+Etape 2) : Installation et Set Up 
 
 1-1 set up de la Database :
 
