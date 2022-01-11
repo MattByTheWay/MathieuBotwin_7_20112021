@@ -86,6 +86,12 @@ export default {
                         }
                     }
                 )
+                .catch((error) => {
+                    if (error.response.status === 400) {
+                        this.$swal('Une Erreur est survenue, les caractere speciaux sont interdit');
+                    }  
+                })
+
                 .then( this.visible = false)
                 .then(this.$root.$emit('Posts'));
         }

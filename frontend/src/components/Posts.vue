@@ -125,5 +125,6 @@ export default {
 
     .post__content{
         font-size: .9rem;
+        word-break: break-all;
     }
 </style>
