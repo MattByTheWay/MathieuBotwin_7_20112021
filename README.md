@@ -4,6 +4,13 @@ Langage utilisé : JS, CSS, HTML
 
 Framework : Vue.js, Node.JS et Express
 
+Compétences évaluées :
+
+- Authentifier un utilisateur et maintenir sa session
+- Personnaliser le contenu envoyé à un client web
+- Gérer un stockage de données à l'aide de SQL
+- Implémenter un stockage de données sécurisé en utilisant SQL
+
 Etape 1) : MySQL Workbench
 
 Pour ce projet vous aller avoir besoin de MySQL Workbench
