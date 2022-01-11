@@ -13,7 +13,7 @@ SET time_zone = "+00:00";
 --
 -- Base de données : `groupomania`
 --
-USE Groupomania
+USE Groupomania;
 -- --------------------------------------------------------
 
 --
